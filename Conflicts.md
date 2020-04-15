@@ -1,3 +1,3 @@
-# Git Conflicts
+# Scary Git Conflicts!! :(
 
 Hello.
